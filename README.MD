@@ -1,0 +1,1 @@
+Sorting algorithm project with the objective to implement a sorting algorithm using 2 stacks limited by 11 diferent opperations.
